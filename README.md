@@ -1,6 +1,4 @@
-
-
-# Hi there, I'm [Nama Kamu]! 👋
+# Hi there, I'm Muhammad Noor Yusuf! 👋
 
 ### 🚀 Pranata Komputer Ahli Pertama | Full-Stack Web Developer
 
@@ -22,15 +20,9 @@ Saya adalah seorang pengembang web yang berdedikasi dalam membangun solusi digit
 
 Terhubung dengan saya untuk diskusi seputar IT, SPBE, atau pengembangan web:
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/](https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/)
-[![Email](https://shields.io)](mailto:mnyusuf14@gmail.com)
+inkedIn : https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/](https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/
 
----
-
-### 📊 My GitHub Stats
-
-![Your GitHub stats](https://vercel.appmnooryusuf&show_icons=true&theme=radical)
-![Top Langs](https://vercel.appmnooryusuf&layout=compact&theme=radical)
+Email : mailto:mnyusuf14@gmail.com
 
 ---
 
