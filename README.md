@@ -8,17 +8,17 @@ Saya adalah seorang pengembang web yang berdedikasi dalam membangun solusi digit
 
 ### 🛠 Tech Stack & Tools
 
-- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Core:** HTML 5, CSS 3, JavaScript (ES6+)
 - **Backend:** Laravel (PHP)
 - **Frontend Framework:** Livewire (Full-stack reactivity)
 - **Database:** MySQL / PostgreSQL
-- **Tools:** Git, GitHub, Composer, NPM, VS Code
+- **Tools:** Git, GitHub, Composer, NPM, VS Code, Antigravity
 
 ---
 
 ### 🔗 Connect With Me
 
-Terhubung dengan saya untuk diskusi seputar IT, SPBE, atau pengembangan web:
+Terhubung dengan saya untuk diskusi seputar IT atau pengembangan web:
 
 inkedIn : https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/](https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/
 
