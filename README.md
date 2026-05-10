@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @mnooryusuf
-- 👀 I’m interested in garaphic design and programming
-- 🌱 I’m currently learning front end web development as html,css,javascript
-- 💞️ I’m looking to collaborate on someone or some place which will make me better at coding, self development, and career.
-- 📫 How to reach me you can connect with me in linkedin [https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/](https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/)
 
-<!---
-mnooryusuf/mnooryusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hi there, I'm [Nama Kamu]! 👋
+
+### 🚀 Pranata Komputer Ahli Pertama | Full-Stack Web Developer
+
+Saya adalah seorang pengembang web yang berdedikasi dalam membangun solusi digital di sektor publik. Saat ini berfokus pada pengembangan sistem informasi di **Diskominfo-SP Kabupaten HSS** menggunakan ekosistem **PHP** dan **TALL Stack**.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Laravel (PHP)
+- **Frontend Framework:** Livewire (Full-stack reactivity)
+- **Database:** MySQL / PostgreSQL
+- **Tools:** Git, GitHub, Composer, NPM, VS Code
+
+---
+
+### 🔗 Connect With Me
+
+Terhubung dengan saya untuk diskusi seputar IT, SPBE, atau pengembangan web:
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/](https://www.linkedin.com/in/muhammad-noor-yusuf-2877631b3/)
+[![Email](https://shields.io)](mailto:mnyusuf14@gmail.com)
+
+---
+
+### 📊 My GitHub Stats
+
+![Your GitHub stats](https://vercel.appmnooryusuf&show_icons=true&theme=radical)
+![Top Langs](https://vercel.appmnooryusuf&layout=compact&theme=radical)
+
+---
+
+### 🔭 Current Focus
+- 🏗️ Mengembangkan aplikasi layanan publik di **Diskominfo-SP HSS**.
+- 🛠️ Optimalisasi performa aplikasi **Laravel & Livewire**.
+- 🔐 Implementasi keamanan data pada sistem pemerintahan daerah.
+
+---
+
+> "Logic will get you from A to B. Imagination will take you everywhere." – Albert Einstein
+
+
